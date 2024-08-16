@@ -1,0 +1,8 @@
+pygame
+sounddevice
+soundfile
+python_speech_features
+scikit-learn
+numpy
+scipy
+openai-whisper
